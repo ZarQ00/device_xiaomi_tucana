@@ -19,6 +19,9 @@ DEVICE_PATH := device/xiaomi/tucana
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
+# Audio
+AUDIO_FEATURE_ELLIPTIC_ULTRASOUND_SUPPORT := true
+
 # Assert
 TARGET_OTA_ASSERT_DEVICE := tucana
 

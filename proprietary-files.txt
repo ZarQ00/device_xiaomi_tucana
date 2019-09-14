@@ -21,22 +21,6 @@ vendor/lib/rfsa/adsp/misound_karaokemix_res.bin
 vendor/lib/rfsa/adsp/misound_karaoke_res.bin
 vendor/lib/rfsa/adsp/misound_res.bin
 
-# Audio
-vendor/lib64/hw/audio.primary.sm6150.so
-vendor/lib64/libaudioalsa.so
-vendor/lib64/libaudioconfigstore.so
-vendor/lib64/libaudio_log_utils.so
-vendor/lib64/libaudioroute_ext.so
-vendor/lib64/libhdmipassthru.so
-vendor/lib/hw/audio.primary.sm6150.so
-vendor/lib/libadm.so
-vendor/lib/libaudioalsa.so
-vendor/lib/libaudioconfigstore.so
-vendor/lib/libaudio_log_utils.so
-vendor/lib/libaudioroute_ext.so
-vendor/lib/libhdmipassthru.so
-vendor/lib/libsurround_3mic_proc.so
-
 # Audio (speaker amplifier) firmware
 vendor/firmware/tfa98xx.cnt
 
