@@ -24,6 +24,7 @@ TARGET_OTA_ASSERT_DEVICE := tucana
 
 # Fingerprint
 TARGET_SURFACEFLINGER_FOD_LIB := //$(COMMON_PATH):libfod_extension
+TARGET_USES_FOD_ZPOS := true
 
 # Init
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_tucana
